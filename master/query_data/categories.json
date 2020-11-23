@@ -1,0 +1,975 @@
+[{
+    "value": "1000",
+    "text": {
+        "de": "Immobilien",
+        "fr": "Immobilier",
+        "it": "Immobili",
+        "en": "Real estate"
+    },
+    "children": [{
+        "value": "1020",
+        "text": {
+            "de": "Wohnungen",
+            "fr": "Appartements",
+            "it": "Appartamenti",
+            "en": "Apartments"
+        }
+    }, {
+        "value": "1030",
+        "text": {
+            "de": "WG-Zimmer",
+            "fr": "Chambres en colocation",
+            "it": "Colocazioni",
+            "en": "Flat shares"
+        }
+    }, {
+        "value": "1040",
+        "text": {
+            "de": "Haeuser",
+            "fr": "Maisons",
+            "it": "Case",
+            "en": "Houses"
+        }
+    }, {
+        "value": "1050",
+        "text": {
+            "de": "Ferienobjekte",
+            "fr": "Immobilier de vacances",
+            "it": "Immobili di vacanza",
+            "en": "Holiday objects"
+        }
+    }, {
+        "value": "1060",
+        "text": {
+            "de": "Gewerbeobjekte",
+            "fr": "Objets commerciaux",
+            "it": "Oggetti commerciali",
+            "en": "Commercial property"
+        }
+    }, {
+        "value": "1080",
+        "text": {
+            "de": "Grundstücke",
+            "fr": "Terrains",
+            "it": "Terreni",
+            "en": "Building ground"
+        }
+    }, {
+        "value": "1090",
+        "text": {
+            "de": "Parkplaetze",
+            "fr": "Places de parc",
+            "it": "Posti auto",
+            "en": "Parking spots"
+        }
+    }]
+}, {
+    "value": "2000",
+    "text": {
+        "de": "Fahrzeuge",
+        "fr": "Véhicules",
+        "it": "Veicoli",
+        "en": "Vehicles"
+    },
+    "children": [{
+        "value": "2020",
+        "text": {
+            "de": "Autos",
+            "fr": "Voitures",
+            "it": "Auto",
+            "en": "Cars"
+        }
+    }, {
+        "value": "2030",
+        "text": {
+            "de": "Motorradzubehoer",
+            "fr": "Accessoires moto",
+            "it": "Accessori moto",
+            "en": "Motorcycle accessories"
+        }
+    }, {
+        "value": "2040",
+        "text": {
+            "de": "Motorraeder",
+            "fr": "Motos",
+            "it": "Moto",
+            "en": "Motorcycles"
+        }
+    }, {
+        "value": "2050",
+        "text": {
+            "de": "Nutzfahrzeuge",
+            "fr": "Véhicules utilitaires",
+            "it": "Veicoli commerciali",
+            "en": "Utility vehicles"
+        }
+    }, {
+        "value": "2060",
+        "text": {
+            "de": "Boote & Zubehoer",
+            "fr": "Bateaux & Accessoires",
+            "it": "Barche e accessori",
+            "en": "Boats"
+        }
+    }, {
+        "value": "2080",
+        "text": {
+            "de": "Autozubehoer",
+            "fr": "Accessoires auto",
+            "it": "Accessori auto",
+            "en": "Car accessories"
+        }
+    }, {
+        "value": "2110",
+        "text": {
+            "de": "Wohnmobile",
+            "fr": "Camping-cars & Caravanes",
+            "it": "Camper e roulotte",
+            "en": "Caravans"
+        }
+    }]
+}, {
+    "value": "3000",
+    "text": {
+        "de": "Haushalt",
+        "fr": "Maison",
+        "it": "Per la casa",
+        "en": "Household"
+    },
+    "children": [{
+        "value": "3040",
+        "text": {
+            "de": "Geraete & Utensilien",
+            "fr": "Electroménager & Ustensiles",
+            "it": "Elettrodomestici e utensili",
+            "en": "Equipment & tools"
+        }
+    }, {
+        "value": "3110",
+        "text": {
+            "de": "Moebel",
+            "fr": "Mobilier",
+            "it": "Mobili",
+            "en": "Furniture"
+        }
+    }, {
+        "value": "3150",
+        "text": {
+            "de": "Deko & Accessoires",
+            "fr": "Déco & Accessoires",
+            "it": "Decorazione e accessori",
+            "en": "Decoration & Accessories"
+        }
+    }, {
+        "value": "3160",
+        "text": {
+            "de": "Beleuchtung",
+            "fr": "Luminaires",
+            "it": "Illuminazione",
+            "en": "Lighting"
+        }
+    }, {
+        "value": "7030",
+        "text": {
+            "de": "Lebensmittel",
+            "fr": "Alimentation",
+            "it": "Alimentari",
+            "en": "Food"
+        }
+    }]
+}, {
+    "value": "3200",
+    "text": {
+        "de": "Garten & Handwerk",
+        "fr": "Jardin & Outils",
+        "it": "Giardino e fai da te",
+        "en": "Garden & Craft"
+    },
+    "children": [{
+        "value": "3130",
+        "text": {
+            "de": "Gartenausstattung",
+            "fr": "Equipement de jardin",
+            "it": "Per il giardino",
+            "en": "Garden equipment"
+        }
+    }, {
+        "value": "3220",
+        "text": {
+            "de": "Werkzeuge & Maschinen",
+            "fr": "Outils & Machines",
+            "it": "Attrezzi e macchine",
+            "en": "Garden equipment"
+        }
+    }, {
+        "value": "3240",
+        "text": {
+            "de": "Baumaterial",
+            "fr": "Matériel de construction",
+            "it": "Materiale da costruzione",
+            "en": "Building material"
+        }
+    }]
+}, {
+    "value": "3400",
+    "text": {
+        "de": "Spielzeuge & Basteln",
+        "fr": "Jouets & Bricolage",
+        "it": "Giocattoli e bricolage",
+        "en": "Toys & Handicrafts"
+    },
+    "children": [{
+        "value": "3120",
+        "text": {
+            "de": "Spielzeuge",
+            "fr": "Jouets",
+            "it": "Giocattoli",
+            "en": "Toys"
+        }
+    }, {
+        "value": "3420",
+        "text": {
+            "de": "Modellbau",
+            "fr": "Modélisme",
+            "it": "Modellismo",
+            "en": "Modeling"
+        }
+    }, {
+        "value": "3440",
+        "text": {
+            "de": "Basteln",
+            "fr": "Bricolage",
+            "it": "Bricolage",
+            "en": "Handicrafts"
+        }
+    }, {
+        "value": "5080",
+        "text": {
+            "de": "Spielkonsolen & Games",
+            "fr": "Consoles & Jeux vidéo",
+            "it": "Console e videogiochi",
+            "en": "Consoles & Games"
+        }
+    }]
+}, {
+    "value": "4000",
+    "text": {
+        "de": "Sport & Outdoor",
+        "fr": "Sport & Outdoor",
+        "it": "Sport e outdoor",
+        "en": "Sport & Outdoor"
+    },
+    "children": [{
+        "value": "4010",
+        "text": {
+            "de": "Velos",
+            "fr": "Vélos",
+            "it": "Biciclette",
+            "en": "Bicycles"
+        }
+    }, {
+        "value": "4070",
+        "text": {
+            "de": "Fitness",
+            "fr": "Fitness",
+            "it": "Fitness",
+            "en": "Fitness"
+        }
+    }, {
+        "value": "4080",
+        "text": {
+            "de": "Wintersport",
+            "fr": "Sports d'hiver",
+            "it": "Sport invernali",
+            "en": "Winter sports"
+        }
+    }, {
+        "value": "4090",
+        "text": {
+            "de": "Sonstige Sportarten",
+            "fr": "Autres sports",
+            "it": "Altri sport",
+            "en": "Other sports"
+        }
+    }, {
+        "value": "4095",
+        "text": {
+            "de": "Camping",
+            "fr": "Camping",
+            "it": "Campeggio",
+            "en": "Camping"
+        }
+    }]
+}, {
+    "value": "4200",
+    "text": {
+        "de": "Bücher",
+        "fr": "Livres",
+        "it": "Libri",
+        "en": "Books"
+    },
+    "children": [{
+        "value": "4100",
+        "text": {
+            "de": "Sonstige Bücher",
+            "fr": "Autres livres",
+            "it": "Altri libri",
+            "en": "Other books"
+        }
+    }, {
+        "value": "4220",
+        "text": {
+            "de": "Romane",
+            "fr": "Romans",
+            "it": "Romanzi",
+            "en": "Novels"
+        }
+    }, {
+        "value": "4240",
+        "text": {
+            "de": "Comics",
+            "fr": "BD",
+            "it": "Fumetti",
+            "en": "Comics"
+        }
+    }, {
+        "value": "4260",
+        "text": {
+            "de": "Sachbücher & Ratgeber",
+            "fr": "Savoirs & Guides",
+            "it": "Manuali e guide",
+            "en": "Non-fiction books"
+        }
+    }]
+}, {
+    "value": "4300",
+    "text": {
+        "de": "Musik",
+        "fr": "Musique",
+        "it": "Musica",
+        "en": "Music"
+    },
+    "children": [{
+        "value": "4060",
+        "text": {
+            "de": "Instrumente",
+            "fr": "Instruments de musique",
+            "it": "Strumenti",
+            "en": "Musical instruments"
+        }
+    }, {
+        "value": "4140",
+        "text": {
+            "de": "CD, Vinyl & Kassetten",
+            "fr": "CD, Vinyles & Cassettes",
+            "it": "CD, vinili e cassette",
+            "en": "CDs"
+        }
+    }]
+}, {
+    "value": "4400",
+    "text": {
+        "de": "Filme",
+        "fr": "Films",
+        "it": "Film",
+        "en": "Films"
+    },
+    "children": [{
+        "value": "4120",
+        "text": {
+            "de": "Filme",
+            "fr": "Films",
+            "it": "Film",
+            "en": "Films"
+        }
+    }]
+}, {
+    "value": "4600",
+    "text": {
+        "de": "Tickets & Gutscheine",
+        "fr": "Billetterie & Bons",
+        "it": "Biglietti e buoni",
+        "en": "Tickets & Vouchers"
+    },
+    "children": [{
+        "value": "9080",
+        "text": {
+            "de": "Tickets & Gutscheine",
+            "fr": "Billetterie & Bons",
+            "it": "Biglietti e buoni",
+            "en": "Tickets & Vouchers"
+        }
+    }]
+}, {
+    "value": "4800",
+    "text": {
+        "de": "Antiquitaeten & Kunst",
+        "fr": "Art & Antiquités",
+        "it": "Arte e antiquariato",
+        "en": "Antiques & Arts"
+    },
+    "children": [{
+        "value": "4020",
+        "text": {
+            "de": "Antiquitaeten & Kunst",
+            "fr": "Art & Antiquités",
+            "it": "Arte e antiquariato",
+            "en": "Antiques & Arts"
+        }
+    }]
+}, {
+    "value": "5000",
+    "text": {
+        "de": "Computer & Zubehoer",
+        "fr": "Informatique",
+        "it": "Computer e accessori",
+        "en": "Computers & Accessories"
+    },
+    "children": [{
+        "value": "5010",
+        "text": {
+            "de": "Tablets",
+            "fr": "Tablettes",
+            "it": "Tablet",
+            "en": "Tablets"
+        }
+    }, {
+        "value": "5030",
+        "text": {
+            "de": "Komponenten & Zubehoer",
+            "fr": "Composantes & Accessoires",
+            "it": "Componenti e accessori",
+            "en": "Components & Accessories"
+        }
+    }, {
+        "value": "5050",
+        "text": {
+            "de": "Software",
+            "fr": "Logiciel",
+            "it": "Software",
+            "en": "Software"
+        }
+    }, {
+        "value": "5060",
+        "text": {
+            "de": "Computer",
+            "fr": "Ordinateurs",
+            "it": "Computer",
+            "en": "Computers"
+        }
+    }]
+}, {
+    "value": "5400",
+    "text": {
+        "de": "TV & Audio",
+        "fr": "TV & Audio",
+        "it": "TV e audio",
+        "en": "TV & Audio"
+    },
+    "children": [{
+        "value": "5420",
+        "text": {
+            "de": "Fernseher",
+            "fr": "TV",
+            "it": "Televisori",
+            "en": "Televisions"
+        }
+    }, {
+        "value": "5440",
+        "text": {
+            "de": "DVD-Player",
+            "fr": "Lecteurs DVD",
+            "it": "Lettori DVD",
+            "en": "DVD-Players"
+        }
+    }, {
+        "value": "5460",
+        "text": {
+            "de": "Audio & Hi-Fi",
+            "fr": "Audio & Hi-Fi",
+            "it": "Audio e Hi-Fi",
+            "en": "Audio & Hi-Fi"
+        }
+    }]
+}, {
+    "value": "5600",
+    "text": {
+        "de": "Foto & Video",
+        "fr": "Photo & Vidéo",
+        "it": "Foto e video",
+        "en": "Photo & Video"
+    },
+    "children": [{
+        "value": "5100",
+        "text": {
+            "de": "Fotokameras",
+            "fr": "Appareils photo",
+            "it": "Macchine fotografiche",
+            "en": "Photo cameras"
+        }
+    }, {
+        "value": "5620",
+        "text": {
+            "de": "Videokameras",
+            "fr": "Caméscopes",
+            "it": "Videocamere",
+            "en": "Video cameras"
+        }
+    }, {
+        "value": "5640",
+        "text": {
+            "de": "Zubehoer",
+            "fr": "Accessoires",
+            "it": "Accessori",
+            "en": "Photo & video accessories"
+        }
+    }]
+}, {
+    "value": "5800",
+    "text": {
+        "de": "Telefon & Navigation",
+        "fr": "Téléphonie & Navigation",
+        "it": "Telefonia e navigazione",
+        "en": "Phone & Navigation"
+    },
+    "children": [{
+        "value": "5020",
+        "text": {
+            "de": "Handys",
+            "fr": "Téléphones mobiles",
+            "it": "Cellulari",
+            "en": "Cell phones"
+        }
+    }, {
+        "value": "5820",
+        "text": {
+            "de": "Festnetztelefone",
+            "fr": "Téléphones fixes",
+            "it": "Telefoni fissi",
+            "en": "Landline phones"
+        }
+    }, {
+        "value": "5840",
+        "text": {
+            "de": "Navigationssysteme",
+            "fr": "GPS",
+            "it": "Navigatori",
+            "en": "Navigation systems"
+        }
+    }, {
+        "value": "5860",
+        "text": {
+            "de": "Zubehoer",
+            "fr": "Accessoires",
+            "it": "Accessori",
+            "en": "Phone & navigation accessories"
+        }
+    }]
+}, {
+    "value": "6200",
+    "text": {
+        "de": "Baby & Kind",
+        "fr": "Bébé & Enfant",
+        "it": "Neonati e bambini",
+        "en": "Baby & Child"
+    },
+    "children": [{
+        "value": "6220",
+        "text": {
+            "de": "Kleider & Schuhe",
+            "fr": "Vêtements & Chaussures",
+            "it": "Abbigliamento e scarpe",
+            "en": "Baby clothes"
+        }
+    }, {
+        "value": "6230",
+        "text": {
+            "de": "Kinderwagen & Sitze",
+            "fr": "Poussettes & Sièges enfant",
+            "it": "Passeggini e seggiolini",
+            "en": "Strollers & Seats"
+        }
+    }, {
+        "value": "6260",
+        "text": {
+            "de": "Kinderzimmer",
+            "fr": "Chambre d'enfant",
+            "it": "Cameretta",
+            "en": "Children's room"
+        }
+    }, {
+        "value": "6280",
+        "text": {
+            "de": "Babypflege",
+            "fr": "Soin bébé",
+            "it": "Cura neonato",
+            "en": "Baby care"
+        }
+    }]
+}, {
+    "value": "6400",
+    "text": {
+        "de": "Stellenangebote",
+        "fr": "Postes vacants",
+        "it": "Offerte di lavoro",
+        "en": "Job Offers"
+    },
+    "children": [{
+        "value": "6020",
+        "text": {
+            "de": "Sonstige Stellen",
+            "fr": "Autres emplois",
+            "it": "Altri lavori",
+            "en": "Other jobs"
+        }
+    }, {
+        "value": "6420",
+        "text": {
+            "de": "Kinderbetreuung & Reinigung",
+            "fr": "Garde d'enfants & Nettoyage",
+            "it": "Baby-sitting e pulizie",
+            "en": "Child care & Cleaning"
+        }
+    }, {
+        "value": "6430",
+        "text": {
+            "de": "Handwerk & Bau",
+            "fr": "Artisanat & Construction",
+            "it": "Artigianato ed edilizia",
+            "en": "Craft & Construction"
+        }
+    }, {
+        "value": "6450",
+        "text": {
+            "de": "Gastgewerbe",
+            "fr": "Hôtellerie",
+            "it": "Ristorazione e alberghi",
+            "en": "Gastronomy"
+        }
+    }, {
+        "value": "6470",
+        "text": {
+            "de": "Gesundheitswesen",
+            "fr": "Santé",
+            "it": "Settore sanitario",
+            "en": "Health care"
+        }
+    }]
+}, {
+    "value": "6600",
+    "text": {
+        "de": "Kleidung & Accessoires",
+        "fr": "Vêtements & Accessoires",
+        "it": "Abbigliamento e accessori",
+        "en": "Clothes & Accessories"
+    },
+    "children": [{
+        "value": "3050",
+        "text": {
+            "de": "Kleidung für Damen",
+            "fr": "Habits pour femmes",
+            "it": "Abiti da donna",
+            "en": "Women's Clothes"
+        }
+    }, {
+        "value": "3100",
+        "text": {
+            "de": "Uhren & Schmuck",
+            "fr": "Montres & Bijoux",
+            "it": "Orologi e gioielli",
+            "en": "Watches & Jewelry"
+        }
+    }, {
+        "value": "6620",
+        "text": {
+            "de": "Taschen & Portemonnaies",
+            "fr": "Sacs & Porte-monnaies",
+            "it": "Borse e portafogli",
+            "en": "Bags & Wallets"
+        }
+    }, {
+        "value": "6650",
+        "text": {
+            "de": "Schuhe für Damen",
+            "fr": "Chaussures pour femmes",
+            "it": "Scarpe da donna",
+            "en": "Women's Shoes"
+        }
+    }, {
+        "value": "6660",
+        "text": {
+            "de": "Accessoires & Beauty",
+            "fr": "Accessoires & Beauté",
+            "it": "Accessori e Beauty",
+            "en": "Accessories"
+        }
+    }, {
+        "value": "6680",
+        "text": {
+            "de": "Kleidung für Herren",
+            "fr": "Habits pour hommes",
+            "it": "Abiti da uomo",
+            "en": "Men's clothing"
+        }
+    }, {
+        "value": "6690",
+        "text": {
+            "de": "Schuhe für Herren",
+            "fr": "Chaussures pour hommes",
+            "it": "Scarpe da uomo",
+            "en": "Men's shoes"
+        }
+    }]
+}, {
+    "value": "6800",
+    "text": {
+        "de": "Büro & Gewerbe",
+        "fr": "Bureau & Commerce",
+        "it": "Uffici ed esercizi",
+        "en": "Office & Business"
+    },
+    "children": [{
+        "value": "6820",
+        "text": {
+            "de": "Geschaeftseinrichtungen",
+            "fr": "Aménagement commercial",
+            "it": "Mobili e utensili per esercizi",
+            "en": "Commercial installations & furniture"
+        }
+    }, {
+        "value": "6840",
+        "text": {
+            "de": "Büromaterial & Büromoebel",
+            "fr": "Matériel & mobilier de bureau",
+            "it": "Materiale e mobili per uffici",
+            "en": "Office material & furniture"
+        }
+    }]
+}, {
+    "value": "7000",
+    "text": {
+        "de": "Sonstiges",
+        "fr": "Autres",
+        "it": "Altro",
+        "en": "Other"
+    },
+    "children": [{
+        "value": "7020",
+        "text": {
+            "de": "Sonstiges",
+            "fr": "Autres",
+            "it": "Altro",
+            "en": "Other"
+        }
+    }]
+}, {
+    "value": "7200",
+    "text": {
+        "de": "Sammeln",
+        "fr": "Objets de collection",
+        "it": "Collezionismo",
+        "en": "Collectibles"
+    },
+    "children": [{
+        "value": "4160",
+        "text": {
+            "de": "Sammeln",
+            "fr": "Objets de collection",
+            "it": "Collezionismo",
+            "en": "Collectibles"
+        }
+    }]
+}, {
+    "value": "8000",
+    "text": {
+        "de": "Tiere",
+        "fr": "Animaux",
+        "it": "Animali",
+        "en": "Animals"
+    },
+    "children": [{
+        "value": "4040",
+        "text": {
+            "de": "Sonstige Tiere",
+            "fr": "Autres animaux",
+            "it": "Altri animali",
+            "en": "Other animals"
+        }
+    }, {
+        "value": "8020",
+        "text": {
+            "de": "Hunde",
+            "fr": "Chiens",
+            "it": "Cani",
+            "en": "Dogs"
+        }
+    }, {
+        "value": "8025",
+        "text": {
+            "de": "Hunde Zubehoer",
+            "fr": "Accessoires chiens",
+            "it": "Accessori per cani"
+        }
+    }, {
+        "value": "8030",
+        "text": {
+            "de": "Hasen & Nagetiere",
+            "fr": "Lapins & Rongeurs",
+            "it": "Conigli e roditori",
+            "en": "Rabbits & Rodents"
+        }
+    }, {
+        "value": "8040",
+        "text": {
+            "de": "Katzen",
+            "fr": "Chats",
+            "it": "Gatti",
+            "en": "Cats"
+        }
+    }, {
+        "value": "8050",
+        "text": {
+            "de": "Pferde",
+            "fr": "Chevaux",
+            "it": "Cavalli",
+            "en": "Horses"
+        }
+    }, {
+        "value": "8060",
+        "text": {
+            "de": "Voegel",
+            "fr": "Oiseaux",
+            "it": "Uccelli",
+            "en": "Birds"
+        }
+    }, {
+        "value": "8070",
+        "text": {
+            "de": "Fische",
+            "fr": "Poissons",
+            "it": "Pesci",
+            "en": "Fish"
+        }
+    }, {
+        "value": "8080",
+        "text": {
+            "de": "Reptilien",
+            "fr": "Reptiles",
+            "it": "Rettili",
+            "en": "Reptiles"
+        }
+    }]
+}, {
+    "value": "6500",
+    "text": {
+        "de": "Dienstleistungen",
+        "fr": "Services",
+        "it": "Servizi",
+        "en": "Services"
+    },
+    "children": [{
+        "value": "6505",
+        "text": {
+            "de": "Büroservice",
+            "fr": "Administration",
+            "it": "Amministrazione",
+            "en": "Business & Office"
+        }
+    }, {
+        "value": "6510",
+        "text": {
+            "de": "Finanzen & Recht",
+            "fr": "Finance et droit",
+            "it": "Finanza e diritto",
+            "en": "Finance & Legal"
+        }
+    }, {
+        "value": "6515",
+        "text": {
+            "de": "Handwerk",
+            "fr": "Artisanat",
+            "it": "Artigianato",
+            "en": "Crafts"
+        }
+    }, {
+        "value": "6520",
+        "text": {
+            "de": "Haushalt & Reinigung",
+            "fr": "Ménage et nettoyage",
+            "it": "Lavori domestici e pulizie",
+            "en": "Household & Cleaning"
+        }
+    }, {
+        "value": "6525",
+        "text": {
+            "de": "Unterhalt & Sicherheit",
+            "fr": "Sécurité et entretien",
+            "it": "Manutenzione e sicurezza",
+            "en": "Property & Maintenance"
+        }
+    }, {
+        "value": "6530",
+        "text": {
+            "de": "Elektronik & Mechanik",
+            "fr": "Electronique et mécanique",
+            "it": "Elettronica e meccanica",
+            "en": "Electronic & Mechanical"
+        }
+    }, {
+        "value": "6535",
+        "text": {
+            "de": "Computer & Handys",
+            "fr": "Informatique & portables",
+            "it": "Computer e cellulari",
+            "en": "Computer"
+        }
+    }, {
+        "value": "6540",
+        "text": {
+            "de": "Kurse & Unterricht",
+            "fr": "Cours et formations",
+            "it": "Corsi e lezioni",
+            "en": "Courses & Tuition"
+        }
+    }, {
+        "value": "6545",
+        "text": {
+            "de": "Gesundheit & Schoenheit",
+            "fr": "Santé et beauté",
+            "it": "Salute e bellezza",
+            "en": "Health & Beauty"
+        }
+    }, {
+        "value": "6550",
+        "text": {
+            "de": "Catering, Gastronomie & Partyplanung",
+            "fr": "Restauration et gastronomie, partyservice",
+            "it": "Ristorazione, gastronomia, organizzazione di eventi",
+            "en": "Catering, Hospitality & Party Planning"
+        }
+    }, {
+        "value": "6555",
+        "text": {
+            "de": "Umzug & Transport",
+            "fr": "Transport et déménagement",
+            "it": "Traslochi e trasporti",
+            "en": "Transportation & Moving"
+        }
+    }, {
+        "value": "6560",
+        "text": {
+            "de": "Tiere",
+            "fr": "Animaux",
+            "it": "Animali",
+            "en": "Pets"
+        }
+    }, {
+        "value": "6565",
+        "text": {
+            "de": "Sonstige Dienstleistungen",
+            "fr": "Autres Services",
+            "it": "Altri Servizi",
+            "en": "Other Services"
+        }
+    }]
+}]

@@ -1,0 +1,18 @@
+{
+    "real_estate_types":["apartment","house","flat_share","holiday_object","ground","parking","commercial"],
+    "transaction_type":["rent", "buy"],
+    "ad_type":["offer", "request"],
+    "ad_language":["fr", "it", "de"],
+    "company_ads": ["true", "false"],
+    "real_estate_types_de":{
+        "apartment": "wohnungen", 
+        "house": "hauser", 
+        "flat_share": "wg-zimmer", 
+        "holiday_object": "ferienobjekte", 
+        "ground": "grundstucke", 
+        "parking": "parkplatze", 
+        "commercial": "gewerbeobjekte"
+    },
+    "transaction_type_de":{"rent": "mieten", "buy": "kaufen"},
+    "company_ads_d": {"true": "c", "false": "p"}
+}
