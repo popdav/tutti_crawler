@@ -1,6 +1,6 @@
 # README
 
-Docker network build:
+Docker network build:  
     docker network create my_socket_ipc_network  
 
 In master folder server build commands:  
