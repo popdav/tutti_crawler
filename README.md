@@ -11,5 +11,8 @@ In slave folder crawler build commands:
     docker build -t tutti_slave .  
     docker run --rm -it --network=my_socket_ipc_network tutti_slave  
 
+To start multiple crawler at once:  
+    python3 main.py
+
 To stop all containers:  
     docker stop $(docker ps -aq)
